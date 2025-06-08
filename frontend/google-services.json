@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1069964610394",
+    "project_id": "trails-app-5211c",
+    "storage_bucket": "trails-app-5211c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1069964610394:android:78729e24ffae1d3edf0163",
+        "android_client_info": {
+          "package_name": "com.gettrailme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1069964610394-hhhnhrk5qnv1piqo7bnkiedogd479hum.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrDU2Q3bkrwaoVpSVD1fd59txYgzx21Jw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1069964610394-hhhnhrk5qnv1piqo7bnkiedogd479hum.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
